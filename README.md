@@ -10,4 +10,4 @@ Ensure /var/www/html/TruDB location exists with the following:
 Ensure TruDB database exists with Customer table
 
 1. Access UI
- http://LocalHost_IP/TruDB
+ http://LocalHost_IP/TruDB/index.html
