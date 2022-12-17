@@ -6,6 +6,8 @@ Ensure HTTPD and PHP is installed on host.
 
 Ensure /var/www/html/TruDB location exists with the following:
 1. index.php
+2. db.php
+3. styles.css
 
 Ensure TruDB database exists with Customer table
 
